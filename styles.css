@@ -35,7 +35,7 @@ body {
 	padding: 60px;
 	max-width: 750px;
 	max-height: 700px;
-	box-shadow: 1 12px 30px rgba(0, 0, 0, 0.08);
+	box-shadow: 0 0 30px rgba(0, 0, 0, 0.08);
 }
 
 .brand {
@@ -321,3 +321,19 @@ button:hover {
   transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
+/* CSS FOR SITEREPORT PAGE */
+
+.validation-list img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
